@@ -1,3 +1,4 @@
 {
-  "name": "wpninjas/ninja-forms-conditional-logic"
+  "name": "wpninjas/ninja-forms-conditional-logic",
+  "type": "wordpress-plugin"  
 }
